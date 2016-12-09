@@ -1,0 +1,18 @@
+{
+  "name": "vue-eplate",
+  "version": "0.0.0",
+  "description": "Vue Electron Boilerplate",
+  "main": "electron.js",
+  "dependencies": {
+    "bulma": "^0.2.3",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.17.0",
+    "vue": "^2.0.1",
+    "vue-electron": "^1.0.0",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.0.0",
+    "vuex": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": ""
+}
